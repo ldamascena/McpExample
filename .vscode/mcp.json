@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "dotnet-mcpserver-local": {
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\leo_d\\source\\repos\\McpExample\\src\\MCPServer\\MCPServer.csproj"
+            ],
+        }
+    }
+}

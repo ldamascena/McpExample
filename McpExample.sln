@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager.Api", "src\StudentManager.Api\StudentManager.Api.csproj", "{5221BEB7-8AEE-4277-B71E-8E085E019245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPServer", "src\MCPServer\MCPServer.csproj", "{FDF291A8-D8AF-40E9-91CD-A33F48E06AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5221BEB7-8AEE-4277-B71E-8E085E019245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5221BEB7-8AEE-4277-B71E-8E085E019245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5221BEB7-8AEE-4277-B71E-8E085E019245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5221BEB7-8AEE-4277-B71E-8E085E019245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF291A8-D8AF-40E9-91CD-A33F48E06AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF291A8-D8AF-40E9-91CD-A33F48E06AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF291A8-D8AF-40E9-91CD-A33F48E06AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF291A8-D8AF-40E9-91CD-A33F48E06AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

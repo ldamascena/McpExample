@@ -1,0 +1,4 @@
+﻿12:32:59 info: ModelContextProtocol.Server.StdioServerTransport[857250842] Server (stream) (DotnetMCPServer) transport reading messages.
+12:32:59 info: Microsoft.Hosting.Lifetime[0] Application started. Press Ctrl+C to shut down.
+12:32:59 info: Microsoft.Hosting.Lifetime[0] Hosting environment: Production
+12:32:59 info: Microsoft.Hosting.Lifetime[0] Content root path: C:\Users\leo_d\source\repos\McpExample\src\MCPServer
